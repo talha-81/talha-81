@@ -13,6 +13,20 @@ I am Talha Arshad, currently working as an intern at ALCP. I have a passion for 
 - SQL
 - Statistical Analysis
 
+## Certificates
+**IBM DATA SCIENCE
+**10 Courses
+1.What is Data Science?
+2. Tools for data science
+3. Data science Methodology
+4. Python for Data Science, AI & Development
+5. Python project for data science
+6. Databases and SQL for Data Science with Python
+7. Data Analysis with Python
+8. Data Visualization with Python
+9. Machine Learning with Python
+10. Applied Data Science Capstone
+
 ## Contact Me
 - LinkedIn: [Talha Arshad](https://www.linkedin.com/in/talha-arshad81/)
 - Email: tarshad587@gmail.com
