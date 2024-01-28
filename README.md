@@ -14,7 +14,7 @@ I am Talha Arshad, currently working as an intern at ALCP. I have a passion for 
 - Statistical Analysis
 
 ## Certificates
-** IBM Data Science
+** IBM Data Science **
 1. What is Data Science?
 2. Tools for data science
 3. Data science Methodology
