@@ -3,21 +3,19 @@
 ## About Me
 I am Talha Arshad, currently working as an intern at ALCP. I have a passion for data science and recently completed the Data Science IBM course from Coursera. I am enthusiastic about leveraging data-driven insights to solve real-world problems and contribute to meaningful projects.
 
-## Projects
-- **Project 1**: Brief description of the project and its significance.
-- **Project 2**: Brief description of the project and its significance.
-- **Project 3**: Brief description of the project and its significance.
 
 ## Skills
 - Data Analysis
+- Data Science
+- Data Visualization
 - Machine Learning
 - Python
-- R
 - SQL
+- Statistical Analysis
 
 ## Contact Me
-- LinkedIn: [Talha Arshad](https://www.linkedin.com/in/talhaarshad/)
-- Email: talha.arshad@email.com
+- LinkedIn: [Talha Arshad](https://www.linkedin.com/in/talha-arshad81/)
+- Email: tarshad587@gmail.com
 
 
 <!---
