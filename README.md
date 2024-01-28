@@ -15,7 +15,7 @@ I am Talha Arshad, currently working as an intern at ALCP. I have a passion for 
 
 ## Certificates
 
-1.What is Data Science?
+1. What is Data Science?
 2. Tools for data science
 3. Data science Methodology
 4. Python for Data Science, AI & Development
