@@ -1,7 +1,13 @@
 # Talha Arshad
 
 ## About Me
-I am Talha Arshad, currently working as an intern at ALCP. I have a passion for data science and recently completed the Data Science IBM course from Coursera. I am enthusiastic about leveraging data-driven insights to solve real-world problems and contribute to meaningful projects.
+I am Talha Arshad, Aspiring Data Scientist, Specializing in:
+
+>Exploratory Data Analysis
+>Statistical data Analysis
+>Machine Learning
+
+Skilled in python, SQL and work with libraries such as NumPy, Scipy, Pandas, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scrapy and Scikit-learn.My strong communication skills enhance my ability to manage Data Science projects effectively.
 
 
 ## Skills
