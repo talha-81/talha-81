@@ -1,23 +1,45 @@
 # Talha Arshad
 
 ## About Me
-I am Talha Arshad, Aspiring Data Scientist, Specializing in:
-
->Exploratory Data Analysis
->Statistical data Analysis
->Machine Learning
+Hi! I’m Talha Arshad, a Software Engineering student passionate about Machine Learning, Data Science, and AI. I build predictive models, NLP tools, and deep learning applications using Python, TensorFlow, and Scikit-learn. Check out my projects and feel free to connect!
 
 Skilled in python, SQL and work with libraries such as NumPy, Scipy, Pandas, Matplotlib, Plotly, Seaborn, BeautifulSoup, Scrapy and Scikit-learn.My strong communication skills enhance my ability to manage Data Science projects effectively.
 
 
 ## Skills
-- Data Analysis
-- Data Science
-- Data Visualization
-- Machine Learning
+👨‍💻 Programming Languages & Tools:
 - Python
 - SQL
-- Statistical Analysis
+- HTML/CSS
+- Jupyter Notebook
+- Google Colab
+- Visual Studio Code
+
+🧠 Machine Learning & AI:
+- Supervised & Unsupervised Learning
+- Regression & Classification Models
+- Natural Language Processing (NLP)
+- Deep Learning with CNN
+- Scikit-learn, TensorFlow, Keras
+- OpenCV (for image processing)
+
+📊 Data Science & Analysis:
+- Data Preprocessing & Cleaning
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
+- Data Visualization (Matplotlib, Seaborn, Tableau)
+- Pandas, NumPy, Excel
+
+🌐 Web Development & Deployment:
+- Flask (API & Model Deployment)
+- Front-End with HTML/CSS
+- Git & GitHub for Version Control
+
+💼 Soft Skills:
+- Problem Solving
+- Communication & Teamwork
+- Critical Thinking
+- Presentation Skills
 
 ## Certificates
 ### IBM Data Science
