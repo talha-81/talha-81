@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Talha Arshad, a Data Scientist passionate about Machine Learning, Data Science, and Artificial Intelligence. I specialize in developing predictive models, NLP solutions, and deep learning applications using Python, TensorFlow, and Scikit-learn.<br><br>I hold the IBM Data Science Professional Certificate, which provided comprehensive training in Python, SQL, data analysis, visualization, machine learning, and a hands-on capstone project applying these skills to real-world problems.
+I’m Talha Arshad, a Data Scientist | Machine Learning Engineer passionate about Machine Learning, Data Science, and Artificial Intelligence. I specialize in developing predictive models, NLP solutions, and deep learning applications using Python, TensorFlow, and Scikit-learn.<br><br>I hold the IBM Data Science Professional Certificate, which provided comprehensive training in Python, SQL, data analysis, visualization, machine learning, and a hands-on capstone project applying these skills to real-world problems.
 
 
 ## 🌐 Socials:
